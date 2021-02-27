@@ -54,6 +54,17 @@ $ yarn dev
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
+## :computer: Licença
+
+---
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+
 ## :computer: Autor
 
 ---
