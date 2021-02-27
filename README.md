@@ -29,7 +29,7 @@ Toda a base dessa aplicação foi desenvolvida durante a semana NLW4 da [Rockets
 -  ⚛️ [TypeScript](https://www.typescriptlang.org/)
 -  ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Pré-requisitos
+## :heavy_check_mark: Pré-requisitos
 ---
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
