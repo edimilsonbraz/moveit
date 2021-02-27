@@ -20,7 +20,7 @@
 	🚧  Em construção...  🚧
 </h3>
 
-## [:heavy_check_mark:] Tecnologias
+## :point_right: Tecnologias
 
 --- 
 
@@ -29,7 +29,32 @@ Toda a base dessa aplicação foi desenvolvida durante a semana NLW4 da [Rockets
 -  ⚛️ [TypeScript](https://www.typescriptlang.org/)
 -  ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## [:heavy_check_mark:] Autor
+## Pré-requisitos
+---
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [ReactJs](https://reactjs.org/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando a Aplicação
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/edimilsonbraz/moveit>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd moveit
+
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+
+## :computer: Autor
 
 ---
 
