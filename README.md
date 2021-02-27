@@ -25,9 +25,9 @@
 --- 
 
 Toda a base dessa aplicação foi desenvolvida durante a semana NLW4 da [Rocketseat](https://rocketseat.com.br) com @diego fernandes. 
-- [ReactJs](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+-  ⚛️ [ReactJs](https://reactjs.org/)
+-  ⚛️ [TypeScript](https://www.typescriptlang.org/)
+-  ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## [:heavy_check_mark:] Autor
 
@@ -39,7 +39,7 @@ Toda a base dessa aplicação foi desenvolvida durante a semana NLW4 da [Rockets
  <sub><b>Edimilson Braz</b></sub></a> <a href="#" title="Edimilson ">🚀</a>
 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+Feito com ❤️ por Edimilson Braz 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Edimilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edimilsonbraz/)](https://www.linkedin.com/in/edimilsonbraz/) 
+[![Gmail Badge](https://img.shields.io/badge/-edimilson.gt8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edimilson.gt8@gmail.com)](mailto:edimilson.gt8@gmail.com)
