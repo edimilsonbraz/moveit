@@ -29,7 +29,7 @@ Teste aqui: [Moveit](https://moveit-red.vercel.app)
 
 Toda a base dessa aplicação foi desenvolvida durante a semana NLW4 da [Rocketseat](https://rocketseat.com.br) com @diego fernandes. 
 -  ⚛️ [ReactJs](https://reactjs.org/)
--  ⚛️ [TypeScript](https://www.typescriptlang.org/)
+-  ⚛️ [NextJs](https://nextjs.org/)
 -  ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## :heavy_check_mark: Pré-requisitos
