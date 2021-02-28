@@ -1,7 +1,19 @@
+import { FormEvent, useState } from 'react';
 import styles from '../styles/components/LoginUp.module.css';
+import axios from 'axios';
 
 
 export function LoginUp() {
+  const [email, setEmail] = useState('');
+
+
+  function handleSignUpToNewsLetter(event: FormEvent) {
+    event.preventDefault();
+
+    axios.post('/api/subscribe', { email });
+  }
+
+
   return (
     <div className={styles.container}>
       <div className={styles.cards}>
@@ -25,12 +37,22 @@ export function LoginUp() {
           </div>
 
           <div>
-            <form action="" className={styles.form}>
-              <input type="text"/>
-              <button><img src="/Arrow.png" alt=""/></button>
-              
+            <form 
+              action="" 
+              onSubmit={handleSignUpToNewsLetter} 
+              className={styles.form}>
+              <input 
+                type="email"
+                placeholder="Seu melhor e-mail"
+                value={email}
+                onChange={e => setEmail(e.target.value)}
+              />
+              <button type="submit">
+                <img src="/Arrow.png" alt=""/>
+              </button>
             </form>
           </div>
+
         </div>
       </div>
 

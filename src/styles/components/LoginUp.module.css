@@ -4,7 +4,7 @@
   -webkit-box-align: center;
   align-items: center;
   min-height: 100vh;
-  background: rgb(18, 18, 20);
+  background: var(--background);
 
 }
 
@@ -59,7 +59,7 @@
 .content {
   width: 100%;
     max-width: 480px;
-    background: rgb(32, 32, 36);
+    background: var(--background-2);
     border-radius: 5px;
     padding: 54px;
 }
@@ -80,6 +80,7 @@
   border-radius: 5px 0px 0 5px;
   margin-right: 4px;
   padding-left: 8px;
+
 }
 
 .form button {
@@ -90,4 +91,9 @@
   border: none;
 
   border-radius: 0 4px 4px 0;
+  
+  transition: all 200ms;
+}
+.form button:hover {
+  background: var(--blue-dark);
 }
